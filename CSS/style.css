@@ -19,5 +19,15 @@ ul, li {
     display: block;
 }
 
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background:red;
+}
 
 
